@@ -364,7 +364,7 @@ i.fab.fa-linkedin {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .site-wrapper {
     background-position: 109%!important;
   }
